@@ -1,0 +1,70 @@
+body{
+background-color: rgb(25, 24, 24);
+color: beige;
+text-transform:uppercase ;
+
+}
+label{
+    color:rgb(110, 170, 222);
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+.head{
+    text-align: center;
+    margin: 20px;
+    padding: 10px;
+}
+input{
+
+    display: block;
+    width: 100%;
+    background-color: black;
+    border: none;
+    color: aliceblue;
+    padding: 10px;
+    border-radius: 30px;;
+}
+.bt{
+    color: aliceblue;
+    width: 100%;
+    background-color: rgb(6, 70, 99);
+    padding: 10px;
+    margin-top: 10px;
+        border-radius: 30px;
+        border:none  ;
+        cursor: pointer;
+        transition: .5s;
+
+}
+.bt:hover{
+    background-color: rgb(38, 137, 183) ;
+    letter-spacing: 1px;
+   transform:scale(1.06);
+
+}
+
+table{
+    width: 100%;
+    margin: 30px;
+    text-align: center;
+    
+}
+
+.bt2{
+    background-color: rgb(39, 180, 39);
+    color: aliceblue;
+      padding: 10px;
+    margin-top: 10px;
+        border-radius: 30px;
+        border:none  ;
+        cursor: pointer;
+}
+.bt3{
+ background-color: rgb(241, 21, 21);
+    color: aliceblue;
+      padding: 10px;
+    margin-top: 10px;
+        border-radius: 30px;
+        border:none  ;
+        cursor: pointer;
+}
